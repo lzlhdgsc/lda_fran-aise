@@ -1,5 +1,5 @@
 # lda_fran-aise
 You need nltk,numpy,gensim.
-Recommend Anaconda
-\n
+Recommend Anaconda  
+
 using LDA,TF-IDF
